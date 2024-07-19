@@ -1,0 +1,20 @@
+repo_name: Tha340/wg-securing-software-repos
+report_id: b4ed6d44a02e075c9175b803ed604410
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-19T23:59:27+00:00'
+requested_by: di
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Tha340/wg-securing-software-repos
+  detection_source: Repo Metadata
